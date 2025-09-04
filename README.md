@@ -1,2 +1,0 @@
-# Aware
-Aware Apps readme
